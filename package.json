@@ -10,7 +10,7 @@
     "LICENSE"
   ],
   "dependencies": {
-    "ladda": ">=0.9.8"
+    "ladda": "=0.9.8"
   },
   "peerDependencies": {
     "angular": ">=1.2.0 <2.0"
@@ -34,7 +34,7 @@
   "description": "An angular directive wrapper for Ladda.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/remotty/angular-ladda.git"
+    "url": "https://github.com/nehasoni/angular-ladda.git"
   },
   "keywords": [
     "angular",
@@ -45,7 +45,7 @@
   "author": "Chungsub Kim <subicura@subicura.com> (http://subicura.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/remotty/angular-ladda/issues"
+    "url": "https://github.com/nehasoni/angular-ladda/issues"
   },
-  "homepage": "https://github.com/remotty/angular-ladda"
+  "homepage": "https://github.com/nehasoni/angular-ladda"
 }
